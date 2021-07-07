@@ -1,2 +1,4 @@
 # PythonTutorial
-This is for storing python tutorial code.
+This folder contains the code for python tutorial for beginners. 
+It covers the basics of python programming. 
+
