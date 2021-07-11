@@ -1,5 +1,5 @@
 # PythonTutorial
-This tutorial is organized by BigDataSiciety at Maquarie University. 
+This tutorial is organized by Big Data Society Maquarie University. 
 <p>
     <img src="bigdatasociety.jfif" width="220" height="240" />
 </p>
