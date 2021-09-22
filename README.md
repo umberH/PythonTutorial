@@ -1,6 +1,6 @@
 # PythonTutorial
 This tutorial is organized by Big Data Society Maquarie University. 
-<p style="text-align:center;">
+<p align="center">
     <img src="bigdatasociety.jfif" alt="drawing" width="210" height="210" 
   />
 </p>
