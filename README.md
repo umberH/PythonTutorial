@@ -1,7 +1,7 @@
 # PythonTutorial
 This tutorial is organized by Big Data Society Maquarie University. 
-<p>
-    <img src="bigdatasociety.jfif" alt="drawing" width="210" height="210" display: "block"  margin-left:"auto" margin-right:"auto"
+<p style="text-align:center;">
+    <img src="bigdatasociety.jfif" alt="drawing" width="210" height="210" 
   />
 </p>
 Tutor is Ambreen Hanif an HDR student at Maquarie University.
