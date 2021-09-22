@@ -1,7 +1,8 @@
 # PythonTutorial
 This tutorial is organized by Big Data Society Maquarie University. 
 <p>
-    <img src="bigdatasociety.jfif" alt="drawing" width="210" height="210"/>
+    <img src="bigdatasociety.jfif" alt="drawing" width="210" height="210" display: "block"  margin-left:"auto" margin-right:"auto"
+  />
 </p>
 Tutor is Ambreen Hanif an HDR student at Maquarie University.
 This folder contains the python notebook for the first and Second tutorials of Python Series. 
