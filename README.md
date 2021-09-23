@@ -5,7 +5,7 @@ Python workshops are organized by the Big Data Society, Macquarie University fro
   />
 </p>
 The tutor is Ambreen Hanif an HDR student at Macquarie University and Big Data Society 2021 vice president.
-This folder contains the python notebook for the first and Second tutorials of Python Workshop Series. 
+This folder contains the python notebook for the first and second tutorials of Python Workshop Series. 
 1st covers the basics of python programming including variables, datatypes, operations, conditional Expressions, function. 
 2nd covers Numpy, Pandas and matplotlib.
 
